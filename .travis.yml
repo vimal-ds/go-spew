@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/davecgh/go-spew
+go_import_path: github.com/vimal-ds/go-spew
 go:
     - 1.6.x
     - 1.7.x

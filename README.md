@@ -31,7 +31,7 @@ http://localhost:6060/pkg/github.com/davecgh/go-spew/spew
 ## Installation
 
 ```bash
-$ go get -u github.com/davecgh/go-spew/spew
+$ go get -u github.com/vimal-ds/go-spew/spew
 ```
 
 ## Quick Start
